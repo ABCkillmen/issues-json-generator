@@ -1,0 +1,38 @@
+{
+  "version": "v2",
+  "content": [
+    {
+      "title": "简简",
+      "url": "https://jwt1399.top/",
+      "avatar": "https://jwt1399.top/favicon.png",
+      "screenshot": "",
+      "description": "致力于分享安全&开发相关内容"
+    },
+    {
+      "title": "xaoxuu",
+      "url": "https://xaoxuu.com",
+      "avatar": "https://bu.dusays.com/2021/09/24/2f74810ceb3d3.png",
+      "screenshot": "https://bu.dusays.com/2022/10/23/63542895cfd29.png",
+      "description": ""
+    },
+    {
+      "title": "钟意博客",
+      "url": "https://blog.thatcoder.cn/",
+      "avatar": "https://upyun.thatcdn.cn/hexo/stellar/image/favicon.webp",
+      "screenshot": "",
+      "description": "那个码农-钟意の博客"
+    },
+    {
+      "title": "苏末了",
+      "url": "https://sumorio.com/",
+      "avatar": "https://cdn.jsdelivr.net/gh/Sumorio/BlogPic/01d44c8e1aa35513951cffcac10b12f9.jpg"
+    },
+    {
+      "title": "FlowsecNagi ' s",
+      "url": "https://abckillmen.github.io/friends/",
+      "avatar": "https://imgs.aixifan.com/o_1d1nid2r71o6fvko1oe2jirnm82d.jpg",
+      "screenshot": "",
+      "description": "某种可能性正在测试"
+    }
+  ]
+}
